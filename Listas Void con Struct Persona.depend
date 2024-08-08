@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1723125660 source:c:\users\juanm\onedrive\unla\listas void con struct persona\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"string.h"
+	"lista.h"
+
+1723125612 c:\users\juanm\onedrive\unla\listas void con struct persona\lista.h
+
+1723130415 source:c:\users\juanm\onedrive\unla\listas void con struct persona\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"time.h"
+	"lista.h"
+	"persona.h"
+
+1723130427 c:\users\juanm\onedrive\unla\listas void con struct persona\persona.h
+	"lista.h"
+
+1723130396 source:c:\users\juanm\onedrive\unla\listas void con struct persona\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
